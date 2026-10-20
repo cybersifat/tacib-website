@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tacib.net/sitemap.xml
